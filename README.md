@@ -1,3 +1,4 @@
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 # Homework assignment Open-Source Energy System Modelling
 This is my repository concerning the homework assignment of the second lecture of Open-Source Energy System Modelling in 2024. 
 

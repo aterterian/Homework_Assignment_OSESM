@@ -1,4 +1,4 @@
-from utils import subtract
+from utils import *
 
 tree_height = 5
 diamond_size = 6

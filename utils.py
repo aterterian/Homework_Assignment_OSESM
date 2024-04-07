@@ -43,5 +43,5 @@ def print_diamond(size, edge_symbol='*', inner_symbol=' '):  # Gives the option 
 
 def subtract(a, b):
 
-    return a - b
+    return a-b
 

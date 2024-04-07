@@ -1,8 +1,8 @@
 from utils import *
 
-tree_height = "test"
+tree_height = 5
 diamond_size = 6
-diamond_edge = 8
+diamond_edge = "*"
 diamond_inner = "o"
 
 

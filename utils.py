@@ -41,7 +41,7 @@ def print_diamond(size, edge_symbol='*', inner_symbol=' '):  # Gives the option 
 
 #  Add a test function to check if the testing works
 
-def add(a, b):
+def subtract(a, b):
 
-    return a+b
+    return a-b
 

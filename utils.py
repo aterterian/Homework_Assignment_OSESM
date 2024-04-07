@@ -39,3 +39,9 @@ def print_diamond(size, edge_symbol='*', inner_symbol=' '):  # Gives the option 
                 print(" " * (size - i - 1) + edge_symbol + inner_symbol * (2 * i - 1) + edge_symbol)
 
 
+#  Add a test function to check if the testing works
+
+def add(a, b):
+
+    return a+b
+

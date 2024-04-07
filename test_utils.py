@@ -1,10 +1,9 @@
-from utils import *
+from utils import subtract
 
 tree_height = 5
 diamond_size = 6
 diamond_edge = "*"
 diamond_inner = "o"
-
 
 
 def test_subtract():

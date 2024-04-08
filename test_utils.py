@@ -7,10 +7,10 @@ diamond_inner = "o"
 
 
 def test_subtract():
-
     assert subtract(10, 2) == 8
     assert subtract(10, 5) == 5
     assert subtract(27, 9) == 18
+
 
 # Unfortunately I only realized that I can't really check functions without a return part when they were already built
 # So I now check the input of the functions to be correct
